@@ -9,7 +9,7 @@ This is simple city finder game in turkey implemented in python. There are 2 fil
 
 We are trying to find the provinces of Turkey in a blank map. These provinces are positioned on the map in correct predictions. The game is over when all provinces are found.
 
-![map_game](https://github.com/efecnblt/Snake-Game/blob/main/snake_game.gif?raw=true)
+![map_game](https://github.com/efecnblt/City-finder-game-from-Turkey-map/blob/main/turkey_map.gif?raw=true)
 
 ## Geri Bildirim
 
