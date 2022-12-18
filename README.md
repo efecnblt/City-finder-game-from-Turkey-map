@@ -1,7 +1,7 @@
 # City-finder-game-from-Turkey-map
 Finding turkey cities game with python
 
-This is simple city finder game in turkey implemented in python. There are 2 files in the file. These are respectively;  
+This is simple city finder game in turkey implemented in python. There are 2 files in the project. These are respectively;  
 
 **main.py:** It is our main file. We set the picture to be displayed on the screen. In the loop, we constantly ask the user for a city estimate and increase the score with each correct answer.  
 
